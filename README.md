@@ -23,6 +23,7 @@
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/></a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="jupyter" width="40" height="40"/></a>
+<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="googlecolab" width="40" height="40"/></a>
 
 </p>
 
