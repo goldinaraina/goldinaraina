@@ -25,6 +25,7 @@
   <a href="https://looker.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/looker/looker-icon.svg" alt="looker" width="40" height="40"/></a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/></a>
  <a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/notion/notion-icon.svg" alt="notion" width="40" height="40"/></a>
+ <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/></a>
 
 
 </p>
