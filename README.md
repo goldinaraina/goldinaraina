@@ -19,14 +19,9 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="[https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg](https://www.flickr.com/photos/141573413@N04/42099499622)" alt="tableau" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" alt="excel" width="40" height="40"/></a>
   <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="bigquery" width="40" height="40"/></a>
   <a href="https://looker.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/looker/looker-icon.svg" alt="looker" width="40" height="40"/></a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/></a>
- <a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/notion/notion-icon.svg" alt="notion" width="40" height="40"/></a>
- <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/></a>
-
 
 </p>
 
