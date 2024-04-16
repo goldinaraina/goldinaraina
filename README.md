@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Goldina Raina</h1>
 <h3 align="center">Unlocking insights to drive strategic progress and better decisions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pompymandislian&label=Profile%20views&color=0e75b6&style=flat" alt="pompymandislian" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=goldinaraina&label=Profile%20views&color=0e75b6&style=flat" alt="goldinaraina" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pompymandislian" alt="pompymandislian" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goldinaraina" alt="goldinaraina" /></a> </p>
 
 - 🌱 I’m currently learning ** as a data analyst
 
@@ -22,8 +22,8 @@
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Matplotlib_logo.svg/2560px-Matplotlib_logo.svg.png" alt="matplotlib" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pompymandislian&show_icons=true&locale=en&layout=compact" alt="pompymandislian" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goldinaraina&show_icons=true&locale=en&layout=compact" alt="goldinaraina" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pompymandislian&show_icons=true&locale=en" alt="pompymandislian" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goldinaraina&show_icons=true&locale=en" alt="goldinaraina" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pompymandislian&" alt="pompymandislian" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goldinaraina&" alt="goldinaraina" /></p>
